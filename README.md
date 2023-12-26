@@ -1,4 +1,4 @@
 # anaon_sms
 
- : 
-Only For  Myanmar Country
+
+ Alert......ransomwarescript...
